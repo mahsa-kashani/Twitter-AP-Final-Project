@@ -1,0 +1,159 @@
+#backgroundPane{
+    -fx-background-image: url(../../../background.png);
+}
+#photo{
+    -fx-background-color: transparent;
+}
+#photo:hover{
+    -fx-background-color: #1A93DB;
+    -fx-background-radius : 50;
+}
+#photo:pressed{
+    -fx-background-color: #1680BF;
+    -fx-background-radius : 50;
+}
+#button1{
+    -fx-background-color: #1CA1F0;
+    -fx-background-radius : 50;
+}
+#button1:hover{
+    -fx-background-color: #1A93DB;
+    -fx-background-radius : 50;
+}
+#button1:pressed{
+    -fx-background-color: #1680BF;
+    -fx-background-radius : 50;
+}
+#button2{
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-background-color: #000000;
+    -fx-border-color: gray;
+    -fx-background-radius: 15;
+    -fx-border-radius: 15;
+
+}
+#button2:hover{
+    -fx-background-color: #303030;
+    -fx-border-color: gray;
+    -fx-background-radius: 15;
+    -fx-border-radius: 15;
+}
+#button2:pressed{
+    -fx-background-color: #474747;
+    -fx-border-color: gray;
+    -fx-background-radius: 15;
+    -fx-border-radius: 15;
+}
+#button3{
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-text-fill: #000000;
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 15;
+}
+#button3:hover{
+    -fx-background-color: #EDEDED;
+    -fx-border-color: gray;
+    -fx-background-radius: 15;
+}
+#button3:pressed{
+    -fx-background-color: #DBDBDB;
+    -fx-border-color: gray;
+    -fx-background-radius: 15;
+    -fx-border-radius: 15;
+}
+#camera{
+    -fx-background-color: transparent;
+}
+#camera:hover{
+    -fx-background-color: grey;
+    -fx-background-radius: 40;
+}
+#camera:pressed{
+    -fx-background-color: transparent;
+}
+
+#label1:hover{
+    -fx-text-fill: WHITE;
+    -fx-underline: true;
+}
+#label1:pressed{
+    -fx-text-fill: GREY;
+    -fx-underline: true;
+}
+#signUpLabel{
+    -fx-text-fill: #21a5f5;
+}
+#signUpLabel:hover{
+    -fx-text-fill: #1D90D6;
+}
+#signUpLabel:pressed{
+    -fx-text-fill: #1771A8;
+}
+
+.tab{
+    -fx-tab-min-width:40px;
+    -fx-tab-min-height:40px;
+    -fx-tab-max-width : 100px;
+    -fx-tab-max-height : 100px;
+    -fx-background-color : black;
+}
+
+.tab .tab-label {
+    -fx-alignment: CENTER;
+    -fx-text-fill: #3c3c3c;
+    -fx-font-size: 25px;
+    -fx-font-weight: bold;
+    -fx-background-radius : 2;
+    -fx-background-color : black;
+}
+
+.tab-header-background {
+    -fx-background-color : black;
+}
+
+.tab:selected .tab-label {
+    -fx-alignment: CENTER;
+    -fx-text-fill: white;
+}
+.tab2{
+    -fx-tab-min-width:40px;
+    -fx-tab-min-height:40px;
+    -fx-tab-max-width : 100px;
+    -fx-tab-max-height : 100px;
+    -fx-background-color : black;
+}
+
+.tab2 .tab-label {
+    -fx-alignment: CENTER;
+    -fx-text-fill: #3c3c3c;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-background-radius : 2;
+    -fx-background-color : black;
+}
+
+.tab2-header-background {
+    -fx-background-color : black;
+}
+
+.tab2:selected .tab-label {
+    -fx-alignment: CENTER;
+    -fx-text-fill: white;
+}
+
+.scrollPane{
+    -fx-background-color: black;
+}
+.scrollPane > .viewport{
+    -fx-background-color: black;
+}
+
+#search {
+    -fx-background-color : black;
+    -fx-border-color : grey;
+    -fx-border-radius : 50;
+    -fx-text-fill: white;
+}
