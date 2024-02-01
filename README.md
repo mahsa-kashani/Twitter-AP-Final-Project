@@ -2,7 +2,7 @@
 
 ## Overview
 
-This JavaFX project is an implementation of a Twitter-like application, allowing users to perform various actions such as tweeting, retweeting, liking, disliking, following others, setting a banner, setting a bio, setting a profile picture, viewing lists of followers and followings, blocking others, viewing the main feed, becoming a Favstar post, and engaging in threaded conversations by replying on tweets and replies.
+This JavaFX project is an implementation of a Twitter-like application, allowing users to perform various actions such as tweeting, retweeting, liking, disliking, following others, setting a header, setting a bio, setting a profile picture, viewing lists of followers and followings, blocking others, viewing the main feed, becoming a Favstar post, and engaging in threaded conversations by replying on tweets and replies.
 
 ## Features
 
@@ -12,7 +12,7 @@ This JavaFX project is an implementation of a Twitter-like application, allowing
 
 * Following and Followers: Connect with others by following and gaining followers.
 
-* Profile Customization: Set a banner, bio, and profile picture to personalize your Twitter profile.
+* Profile Customization: Set a header, bio, and profile picture to personalize your Twitter profile.
 
 * Blocking: Control your online experience by blocking users.
 
