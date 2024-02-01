@@ -51,5 +51,5 @@ Tweet, like, follow, and engage with other users.
 
 ### Requirements
 
-- Java 8 or later
+- Java 17 or later
 - Javafx SDK
